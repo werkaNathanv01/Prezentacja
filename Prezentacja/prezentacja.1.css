@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,300&family=Nerko+One&family=Rubik+Microbe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+h2{
+    color: rgb(143, 156, 156);
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 40px;
+
+}
+.p-1{
+    color: rgb(214, 47, 47);
+}
+html{
+    font-size: 20px;
+    text-align: center;
+    float: left;
+    
+}
+.img{
+    color:rgb(214, 47, 47);
+}
+.btn{
+    color: black;
+    text-decoration: none;
+    display: block;
+    background: #ffffffad;
+    border: 2px solid #e9e9e9ad;
+    height: 30px;
+    width: 30px;
+    color: rgba(0, 0, 0, 0.55);
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: -webkit-linear-gradient(top, #cfcfcfad, #ebeaeaad);
+    float: right;
+    margin-top: 15%;
+
+
+}
+.p11{
+    padding-right: 120px;
+}
+p{
+ padding-left: 100px;
+ padding-right: 100px;
+ font-family: 'Open Sans', sans-serif;
+}
+hr{
+    width: 85%;
+
+}
+.h12{
+    font-size: 100px;
+    padding-left: 5%;
+  padding-top: 5%;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-shadow: 0 0 0.2em rgb(236, 106, 87), 0 0 0.2em rgb(236, 106, 87);
+color:rgb(214, 47, 47);
+}
+ul{
+    font-family: 'Open Sans', sans-serif;
+    list-style-type: "\2708"; 
+}
+.h111{
+    font-family: 'Open Sans', sans-serif;
+}
+.btn1{
+    color: black;
+    text-decoration: none;
+    display: block;
+    background: #ffffffad;
+    border: 2px solid #e9e9e9ad;
+    height: 30px;
+    width: 30px;
+    color: rgba(0, 0, 0, 0.55);
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: -webkit-linear-gradient(top, #cfcfcfad, #ebeaeaad);
+    float: right;
+    margin-top: 15%;
+
+}
+.btn3{
+    color: black;
+    text-decoration: none;
+    display: block;
+    background: #ffffffad;
+    border: 2px solid #e9e9e9ad;
+    height: 30px;
+    width: 30px;
+    color: rgba(0, 0, 0, 0.55);
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: -webkit-linear-gradient(top, #cfcfcfad, #ebeaeaad);
+    float: right;
+    
+
+}
+ol{
+    padding-top: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+ol li{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+@media only screen and (max-width: 500px){
+.btn1{ 
+    margin-top: 90%;
+
+}
+.h111{
+    padding-left: 14%;
+}
+.h12{
+    padding-left: 14%;
+}
+p{
+    font-size: 17px;
+}
+ul{
+    font-size: 17px;
+}
+img{
+    max-width: 400px;
+}
+.p11{
+    padding-right: 220px;
+}
+
+}
+
+ 
+
+
